@@ -5,7 +5,7 @@
     </div>
     <div id="site_info">
         <p>
-         &copy; Copyright Syfur Rahman | All Rights Reserved.
+         &copy; Copyright Hossain Mohalder | All Rights Reserved.
         </p>
     </div>
 </body>
