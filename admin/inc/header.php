@@ -63,7 +63,7 @@
         <img src="img/livelogo.png" alt="Logo" />
     </div>
     <div class="floatleft middle">
-        <h1>Educating Dumb Machines</h1>
+        <h1>Sports Freak</h1>
             
     </div>
     <div class="floatright">
