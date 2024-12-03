@@ -60,10 +60,10 @@
 <div class="grid_12 header-repeat">
 <div id="branding">
     <div class="floatleft logo">
-        <img src="img/livelogo.png" alt="Logo" />
+        <img src="img/livelogo.jpg" alt="Logo" />
     </div>
     <div class="floatleft middle">
-        <h1>Sports Freak</h1>
+        <h1>History and trivia about sports</h1>
             
     </div>
     <div class="floatright">
